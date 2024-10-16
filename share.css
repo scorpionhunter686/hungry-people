@@ -1,0 +1,47 @@
+/* Style all font awesome icons */
+.fa {
+    padding: 20px;
+    font-size: 30px;
+    width: 50px;
+    text-align: center;
+    text-decoration: none;
+  }
+  
+  /* Add a hover effect if you want */
+  .fa:hover {
+    opacity: 0.7;
+  }
+  
+  /* Set a specific color for each brand */
+  
+  /* Facebook */
+  .fa-facebook {
+    background: #3B5998;
+    color: white;
+  }
+  
+  /* Twitter */
+  .fa-twitter {
+    background: #55ACEE;
+    color: white;
+  }
+  /*instagram*/
+  .fa-instagram{
+    background:rgb(76, 2, 2) ;
+    color: red;
+  }
+  /*youtube*/
+  .fa-youtube{
+    background:rgb(15, 9, 9) ;
+    color: red;
+  }
+  /*telegram*/
+  .fa-telegram{
+    background:rgb(178, 178, 68) ;
+    color: rgb(0, 255, 191);
+  }
+  /*whatsapp*/
+  .fa-whatsapp{
+    background:rgb(127, 107, 14) ;
+    color: rgb(55, 214, 61);
+  }
